@@ -1,0 +1,9 @@
+Progress:
+	1) Implement keyboard input ✅
+	2) Implement basic commands ✅
+		- 1)  Implement enum to convert user-inputted colours into VGA colour codes
+	3) Implement protected mode entry ✅ GRUB already boots us into protected mode
+	4) Implement scrolling ✅
+	5) Implement memory and files 
+		- 1) Implement memory map reading ✅
+	6) Implemet ring 3 entry		
