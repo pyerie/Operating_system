@@ -1,0 +1,17 @@
+Progress:
+	1) Implement keyboard input ✅
+	2) Implement basic commands ✅
+		- 1)  Implement enum to convert user-inputted colours into VGA colour codes
+	3) Implement protected mode entry ✅ GRUB already boots us into protected mode
+	4) Implement scrolling ✅
+	5) Implement memory and filesystem 
+		- 1) Implement memory map reading ✅
+		- 2) Implement read boot sector ✅
+		- 3) Read files and directories
+			- 1) Read entries from root directory ✅
+			- 2) Parse entries and follow reading algorithm from OSDev - TODO
+		- 4) Create files and directories
+
+	6) Create os specific toolchain
+	7) Port newlib (or other C library)
+	8) Implemet ring 3 entry		
